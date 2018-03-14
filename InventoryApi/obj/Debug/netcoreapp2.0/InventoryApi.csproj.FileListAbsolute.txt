@@ -1,0 +1,13 @@
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/bin/Debug/netcoreapp2.0/InventoryApi.deps.json
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/bin/Debug/netcoreapp2.0/InventoryApi.runtimeconfig.json
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/bin/Debug/netcoreapp2.0/InventoryApi.runtimeconfig.dev.json
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/bin/Debug/netcoreapp2.0/InventoryApi.dll
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/bin/Debug/netcoreapp2.0/InventoryApi.pdb
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/obj/Debug/netcoreapp2.0/InventoryApi.csprojResolveAssemblyReference.cache
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/obj/Debug/netcoreapp2.0/InventoryApi.csproj.CoreCompileInputs.cache
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/obj/Debug/netcoreapp2.0/InventoryApi.AssemblyInfoInputs.cache
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/obj/Debug/netcoreapp2.0/InventoryApi.AssemblyInfo.cs
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/obj/Debug/netcoreapp2.0/InventoryApi.dll
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/obj/Debug/netcoreapp2.0/InventoryApi.pdb
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/bin/Debug/netcoreapp2.0/InventoryManagementService.dll
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryApi/bin/Debug/netcoreapp2.0/InventoryManagementService.pdb

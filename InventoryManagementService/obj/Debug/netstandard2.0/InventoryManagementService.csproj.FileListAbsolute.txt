@@ -1,0 +1,9 @@
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryManagementService/bin/Debug/netstandard2.0/InventoryManagementService.deps.json
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryManagementService/bin/Debug/netstandard2.0/InventoryManagementService.dll
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryManagementService/bin/Debug/netstandard2.0/InventoryManagementService.pdb
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryManagementService/obj/Debug/netstandard2.0/InventoryManagementService.csprojResolveAssemblyReference.cache
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryManagementService/obj/Debug/netstandard2.0/InventoryManagementService.csproj.CoreCompileInputs.cache
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryManagementService/obj/Debug/netstandard2.0/InventoryManagementService.AssemblyInfoInputs.cache
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryManagementService/obj/Debug/netstandard2.0/InventoryManagementService.AssemblyInfo.cs
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryManagementService/obj/Debug/netstandard2.0/InventoryManagementService.dll
+/Users/rabail.ali/Projects/InventoryManagementService/InventoryManagementService/obj/Debug/netstandard2.0/InventoryManagementService.pdb

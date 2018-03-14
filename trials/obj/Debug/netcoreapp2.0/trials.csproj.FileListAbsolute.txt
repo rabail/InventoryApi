@@ -1,0 +1,11 @@
+/Users/rabail.ali/Projects/InventoryManagementService/trials/bin/Debug/netcoreapp2.0/trials.deps.json
+/Users/rabail.ali/Projects/InventoryManagementService/trials/bin/Debug/netcoreapp2.0/trials.runtimeconfig.json
+/Users/rabail.ali/Projects/InventoryManagementService/trials/bin/Debug/netcoreapp2.0/trials.runtimeconfig.dev.json
+/Users/rabail.ali/Projects/InventoryManagementService/trials/bin/Debug/netcoreapp2.0/trials.dll
+/Users/rabail.ali/Projects/InventoryManagementService/trials/bin/Debug/netcoreapp2.0/trials.pdb
+/Users/rabail.ali/Projects/InventoryManagementService/trials/obj/Debug/netcoreapp2.0/trials.csproj.CoreCompileInputs.cache
+/Users/rabail.ali/Projects/InventoryManagementService/trials/obj/Debug/netcoreapp2.0/trials.AssemblyInfoInputs.cache
+/Users/rabail.ali/Projects/InventoryManagementService/trials/obj/Debug/netcoreapp2.0/trials.AssemblyInfo.cs
+/Users/rabail.ali/Projects/InventoryManagementService/trials/obj/Debug/netcoreapp2.0/trials.dll
+/Users/rabail.ali/Projects/InventoryManagementService/trials/obj/Debug/netcoreapp2.0/trials.pdb
+/Users/rabail.ali/Projects/InventoryManagementService/trials/obj/Debug/netcoreapp2.0/trials.csprojResolveAssemblyReference.cache

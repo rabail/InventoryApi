@@ -1,0 +1,17 @@
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/bin/Debug/netcoreapp2.0/Inventory.Tests.deps.json
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/bin/Debug/netcoreapp2.0/Inventory.Tests.dll
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/bin/Debug/netcoreapp2.0/Inventory.Tests.pdb
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/obj/Debug/netcoreapp2.0/Inventory.Tests.csprojResolveAssemblyReference.cache
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/obj/Debug/netcoreapp2.0/Inventory.Tests.csproj.CoreCompileInputs.cache
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/obj/Debug/netcoreapp2.0/Inventory.Tests.AssemblyInfoInputs.cache
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/obj/Debug/netcoreapp2.0/Inventory.Tests.AssemblyInfo.cs
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/obj/Debug/netcoreapp2.0/Inventory.Tests.dll
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/obj/Debug/netcoreapp2.0/Inventory.Tests.pdb
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/bin/Debug/netcoreapp2.0/Inventory.Tests.runtimeconfig.json
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/bin/Debug/netcoreapp2.0/Inventory.Tests.runtimeconfig.dev.json
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/bin/Debug/netcoreapp2.0/InventoryManagementService.dll
+/Users/rabail.ali/Projects/InventoryManagementService/Inventory.Tests/bin/Debug/netcoreapp2.0/InventoryManagementService.pdb
